@@ -7,6 +7,6 @@ But I'll make it!
 
 ##data
 
-[fruits.csv]{data/fruits.csv}
+[fruits.csv](data/fruits.csv)
 
 
