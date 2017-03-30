@@ -1,5 +1,5 @@
 # LV-model
-Lotka Volterra model with dispersal term
+Lotka Volterra model with dispersal
 Model from my MSc thesis
 Used during this task
 Which is not that easy
